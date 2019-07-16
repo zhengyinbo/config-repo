@@ -10,3 +10,4 @@ server:
 userinfo:
   username: jilinwula
   password: 123456789
+env: dev
