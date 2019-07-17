@@ -4,9 +4,9 @@ eureka:
       defaultZone: http://127.0.0.1:8761/eureka
 spring:
   application:
-    name: springcloud-client
+    name: client1
 server:
-  port: 8082
+  port: 8081
 userinfo:
   username: jilinwula
   password: 123456789
