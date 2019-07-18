@@ -10,4 +10,4 @@ server:
 userinfo:
   username: jilinwula
   password: 123456789
-env: 我是会自动更新的
+env: test
